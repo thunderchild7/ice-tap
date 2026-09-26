@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Ice Tap">
+  <rect width="64" height="64" rx="14" fill="#071624"/>
+  <path d="M16 28c8-9 24-9 32 0" fill="none" stroke="#8fe7ff" stroke-width="2" stroke-linecap="round" opacity="0.85"/>
+  <circle cx="32" cy="40" r="13" fill="#0c3348" stroke="#e8f7ff" stroke-width="3"/>
+  <ellipse cx="29" cy="27" rx="11" ry="6.5" fill="#dff6ff"/>
+  <path d="M38 27l11-7-2 7 2 6z" fill="#8ecfec"/>
+  <circle cx="23" cy="26" r="1.4" fill="#102430"/>
+  <path d="M12 16c7 2 9-3 16 0" fill="none" stroke="#7dffc8" stroke-width="1.6" stroke-linecap="round" opacity="0.8"/>
+</svg>
